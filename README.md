@@ -1,4 +1,4 @@
-# Ball Rolling Activity
+## Ball Rolling Activity
 
 In this activity, you will practice using transformations to translate and rotate a ball in response to the mouse input.
 
